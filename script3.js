@@ -1,0 +1,1 @@
+// Write a js program to print all alphabets from a to z. - using while loop
